@@ -1,0 +1,10 @@
+C:\Projects\AddIns\IISExpress\bin\Debug\IISExpress.dll
+C:\Projects\AddIns\IISExpress\bin\Debug\IISExpress.pdb
+C:\Projects\AddIns\IISExpress\bin\Debug\IISExpress.xml
+C:\Projects\AddIns\IISExpress\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\AddIns\IISExpress\obj\Debug\IISExpress.csproj.ResolveComReference.cache
+C:\Projects\AddIns\IISExpress\obj\Debug\IISExpress.dll
+C:\Projects\AddIns\IISExpress\obj\Debug\IISExpress.pdb
+C:\Projects\AddIns\IISExpress\obj\Debug\IISExpress.Resources.resources
+C:\Projects\AddIns\IISExpress\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\AddIns\IISExpress\obj\Debug\GenerateResource.write.1.tlog
